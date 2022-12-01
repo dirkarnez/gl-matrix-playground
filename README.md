@@ -1,6 +1,6 @@
-gl-matrix-playground
-====================
-https://dirkarnez.github.io/gl-matrix-playground
+webgl-matrix-playground
+=======================
+https://dirkarnez.github.io/webgl-matrix-playground
 
 
 From [Animating objects with WebGL - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL)
